@@ -15,3 +15,6 @@ Getting an asset details having id is 14
 
 Getting all assigned assets of an employee
 ![Screenshot (200)](https://user-images.githubusercontent.com/80596589/177002431-2bfcb1ca-b410-46dc-b699-e993cf59c07a.png)
+
+Getting all assets which's name contains substring "101"
+![Screenshot (201)](https://user-images.githubusercontent.com/80596589/177002513-cba58125-ed68-4a7f-bb34-fe9aa4a1ea5b.png)
