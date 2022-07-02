@@ -9,3 +9,6 @@ Adding an employee
 
 Adding an asset
 ![Screenshot (196)](https://user-images.githubusercontent.com/80596589/177002335-f10eece8-4373-495f-9ea9-5382eda78b80.png)
+
+Getting an asset having id is 14
+![Screenshot (197)](https://user-images.githubusercontent.com/80596589/177002380-a03b8758-82f9-469b-93f5-4a0342d0d1f6.png)
